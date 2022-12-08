@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.RegistrationUtilTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-12-08T12:31:55" hostname="DESKTOP-KBJ2SCI" time="0.017">
+  <properties/>
+  <testcase name="test_password_doesnt_match()" classname="org.example.RegistrationUtilTest" time="0.012"/>
+  <testcase name="test_all_field_empty()" classname="org.example.RegistrationUtilTest" time="0.001"/>
+  <testcase name="test_if_username_isEmpty()" classname="org.example.RegistrationUtilTest" time="0.0"/>
+  <testcase name="test_correct_input_fields()" classname="org.example.RegistrationUtilTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
